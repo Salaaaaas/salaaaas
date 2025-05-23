@@ -1,4 +1,3 @@
-
 # Hey I'm Salas
 
 * I am a Computer Engineer student from [Limon, Costa Rica](https://www.youtube.com/watch?v=7OgZMHPwRLY)
